@@ -1,0 +1,11 @@
+{
+    "name":"Taker",
+    "description":"엔트리 줄바꿈 확장 프로그램 (Original By G2)",
+    "version":"0.1",
+    "permissions":["activeTab"],
+    "manifest_version":2,
+    "browser_action":{
+        "default_title":"test",
+        "default_popup":"popup.html"
+    }
+}
